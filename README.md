@@ -4,7 +4,7 @@
 
 <li>I'm Lesha, Frontend developer</li>
 
-<li>I am 21 years old, studying computer science & IT and at the university in the 3rd year</li>
+<li>I am 21 years old, studying computer science & IT and at the university in the 4rd year</li>
 
 <li>I've been doing frontend for over a year now</li>
 
